@@ -1,0 +1,38 @@
+
+header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    height: 80px;
+    padding: 2px;
+}
+.left{
+    width: 300px;
+    height: 800px;
+    background-color: black;
+    float: left;
+}
+.srodek{
+    float: left;
+    width: 1240px;
+    text-align: center;
+    background-color: lightgray;
+    height: 800px;
+}
+nav ul{
+    
+}
+nav li{
+    list-style: none;
+    padding: 0;
+}   
+nav a{
+    text-decoration: none;
+    
+}   
+.right{
+    width: 290px;
+    height: 800px;
+    background-color: black;
+    float: left;
+}
